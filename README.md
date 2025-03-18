@@ -45,7 +45,7 @@ cd package
 Install the required libraries into the package folder:
 
 ```bash
-pip3 install PyMuPDF boto3 -t .
+pip3 install PyMuPDF -t .
 ```
 
 After installation, create the ZIP file for deployment:
